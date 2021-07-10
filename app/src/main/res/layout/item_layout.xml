@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="25dp"
+    android:id="@+id/cardView"
+    android:elevation="10dp" >
+
+    <RelativeLayout
+        android:id="@+id/rlCard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/ivItem"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/cat1" />
+
+
+        <TextView
+            android:id="@+id/tvName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginLeft="19dp"
+            android:layout_marginBottom="7dp"
+            android:layout_toEndOf="@id/ivItem"
+            android:layout_toRightOf="@id/ivItem"
+            android:text="Name : Cat"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvType"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginBottom="7dp"
+            android:layout_toEndOf="@id/ivItem"
+            android:text="Type : Pet Animal"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvSound"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="90dp"
+            android:text="Sound : Meow-Meow"
+            android:layout_marginBottom="7dp"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_toEndOf="@id/ivItem" />
+
+        <!--        for idli-->
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>
