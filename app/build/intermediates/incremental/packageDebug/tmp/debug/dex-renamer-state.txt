@@ -1,4 +1,4 @@
-#Sat Jul 10 15:36:11 IST 2021
+#Sat Jul 10 15:44:47 IST 2021
 base.2=/Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/build/intermediates/dex/debug/mergeProjectDexDebug/7/classes.dex
 path.2=7/classes.dex
 base.1=/Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
