@@ -7,6 +7,7 @@ public class Animal {
     private String type;
     private String sound;
 
+
     public Animal(int image, String type, String sound, String name) {
         this.image = image;
         this.name = name;

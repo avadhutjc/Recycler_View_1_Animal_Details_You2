@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity implements ItemClickListener
 
     private void buildStudentList() {
         animalList = new ArrayList<>();
+
         animalList.add(new Animal(R.drawable.dog3, "Type : Pet", "Sound : Bow-Bow","Name : Dog"));
         animalList.add(new Animal(R.drawable.tiger2, "Type : Wild", "Sound : Roar","Name : Tiger"));
         animalList.add(new Animal(R.drawable.cat1, "Type : Pet", "Sound : Meow-Meow","Name : Cat"));

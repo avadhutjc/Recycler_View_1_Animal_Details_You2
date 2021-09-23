@@ -19,6 +19,7 @@ public class AnimalViewHolder extends RecyclerView.ViewHolder {
     private ItemClickListener itemClickListener;
     private RelativeLayout relativeLayout;
 
+
     public AnimalViewHolder(@NonNull View itemView, ItemClickListener itemClickListener) {
         super(itemView);
         this.itemClickListener = itemClickListener;

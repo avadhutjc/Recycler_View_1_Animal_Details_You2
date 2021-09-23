@@ -16,6 +16,7 @@ public class AnimalAdapter extends RecyclerView.Adapter<AnimalViewHolder> {
     private ArrayList<Animal> AnimalList;
     private ItemClickListener itemClickListener;
 
+
     public AnimalAdapter(ArrayList<Animal> AnimalList,ItemClickListener itemClickListener) {
         this.AnimalList = AnimalList;
         this.itemClickListener = itemClickListener;
