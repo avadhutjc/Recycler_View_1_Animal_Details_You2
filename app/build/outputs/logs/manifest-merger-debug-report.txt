@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml:2:1-21:12
 MERGED from [com.google.android.material:material:1.3.0] /Users/shubhamsmac/.gradle/caches/transforms-2/files-2.1/693bb3a314b1429001795c2bfe831eaa/material-1.3.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/shubhamsmac/.gradle/caches/transforms-2/files-2.1/0db51bfebffdf02cab6c3906aa1040ae/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/shubhamsmac/.gradle/caches/transforms-2/files-2.1/77c7b97873973e149b09819f46c0a153/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
@@ -39,25 +39,25 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/shubhamsmac/.gradl
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/shubhamsmac/.gradle/caches/transforms-2/files-2.1/b93e2b8a7319b8231fdc1936a598b860/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /Users/shubhamsmac/.gradle/caches/transforms-2/files-2.1/f8503f66578d12caa389b09e1e5eca48/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/shubhamsmac/.gradle/caches/transforms-2/files-2.1/8b1826e082b884f9fc593d27a9580a45/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml:3:5-67
-		INJECTED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml:3:5-67
+		INJECTED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml
-		ADDED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml:2:1-21:12
-		INJECTED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml
-		ADDED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml:2:1-21:12
-		INJECTED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml:5:5-19:19
+ADDED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml:5:5-19:19
 MERGED from [com.google.android.material:material:1.3.0] /Users/shubhamsmac/.gradle/caches/transforms-2/files-2.1/693bb3a314b1429001795c2bfe831eaa/material-1.3.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.3.0] /Users/shubhamsmac/.gradle/caches/transforms-2/files-2.1/693bb3a314b1429001795c2bfe831eaa/material-1.3.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/shubhamsmac/.gradle/caches/transforms-2/files-2.1/0db51bfebffdf02cab6c3906aa1040ae/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
@@ -69,35 +69,35 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/shub
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.5.0] /Users/shubhamsmac/.gradle/caches/transforms-2/files-2.1/cc5e9dcdc56dc39042f72c501235e83f/core-1.5.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml:11:9-79
+		ADDED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml:11:9-79
 activity#com.masai.a7july_recycler_view_1_animal_details_you2.MainActivity
-ADDED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml:12:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml:16:27-74
 uses-sdk
-INJECTED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml
-INJECTED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.3.0] /Users/shubhamsmac/.gradle/caches/transforms-2/files-2.1/693bb3a314b1429001795c2bfe831eaa/material-1.3.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.3.0] /Users/shubhamsmac/.gradle/caches/transforms-2/files-2.1/693bb3a314b1429001795c2bfe831eaa/material-1.3.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/shubhamsmac/.gradle/caches/transforms-2/files-2.1/0db51bfebffdf02cab6c3906aa1040ae/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
@@ -168,13 +168,13 @@ MERGED from [androidx.print:print:1.0.0] /Users/shubhamsmac/.gradle/caches/trans
 MERGED from [androidx.print:print:1.0.0] /Users/shubhamsmac/.gradle/caches/transforms-2/files-2.1/f8503f66578d12caa389b09e1e5eca48/print-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/shubhamsmac/.gradle/caches/transforms-2/files-2.1/8b1826e082b884f9fc593d27a9580a45/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/shubhamsmac/.gradle/caches/transforms-2/files-2.1/8b1826e082b884f9fc593d27a9580a45/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml
-INJECTED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml
-		ADDED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml
-		ADDED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/src/main/AndroidManifest.xml

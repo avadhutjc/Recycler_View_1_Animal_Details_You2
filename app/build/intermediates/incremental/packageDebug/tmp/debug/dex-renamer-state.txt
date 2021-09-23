@@ -1,9 +1,9 @@
-#Sat Jul 10 15:44:47 IST 2021
-base.2=/Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/build/intermediates/dex/debug/mergeProjectDexDebug/7/classes.dex
+#Thu Sep 23 22:22:16 IST 2021
+base.2=/Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/build/intermediates/dex/debug/mergeProjectDexDebug/7/classes.dex
 path.2=7/classes.dex
-base.1=/Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.1=/Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
 path.1=0/classes.dex
-base.0=/Users/shubhamsmac/AndroidStudioProjects/10) 7July_Recycler_View_1_Animal_Details_You2/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.0=/Users/shubhamsmac/avadhut_fa3_033/unit-3/sprint-4/day-2/you/Load_10_Animals/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
